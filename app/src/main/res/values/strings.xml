@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmsPigeon</string>
+    <string name="forwarding_enabled">Пересылка включена</string>
+    <string name="token">Token Telegram-бота</string>
+    <string name="chat_id">chat_id</string>
+    <string name="sim1_name">SIM 1 имя</string>
+    <string name="sim2_name">SIM 2 имя</string>
+    <string name="mode">Режим пересылки</string>
+    <string name="mode_all">Пересылать всё</string>
+    <string name="mode_blacklist">Исключить номера (blacklist)</string>
+    <string name="blacklist_hint">Номера (каждый с новой строки или через запятую)</string>
+    <string name="save">Сохранить</string>
+    <string name="saved">Сохранено</string>
+    <string name="notification_title">SmsPigeon работает</string>
+    <string name="auth_title">Разблокировка</string>
+    <string name="auth_desc">Подтвердите PIN/пароль/графический ключ</string>
+    <string name="subtitle">Пересылка SMS в Telegram без лишнего</string>
+    <string name="section_status">Статус</string>
+    <string name="section_bot">Telegram</string>
+    <string name="section_sim">SIM-карты</string>
+</resources>
