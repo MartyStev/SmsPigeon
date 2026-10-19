@@ -71,7 +71,7 @@ class ForwardService : Service() {
     }
 
     private fun buildMessage(simName: String, sender: String, text: String): String {
-        return "\uD83D\uDCE9 Новое SMS\nSIM: $simName\nОт: $sender\nТекст: $text"
+        return getString(R.string.forward_message, simName, sender, text)
     }
 
     companion object {

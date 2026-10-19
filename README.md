@@ -2,7 +2,7 @@
 
 Open-source Android app that forwards incoming SMS to a Telegram chat through your own bot.
 
-Приложение пересылает входящие SMS в Telegram через вашего бота. Интерфейс пока на русском.
+Приложение пересылает входящие SMS в Telegram через вашего бота. Interface: English and Russian.
 
 ## Features
 - Forwards incoming SMS with sender, text and SIM slot name
@@ -27,6 +27,9 @@ Requires JDK 17 and the Android SDK.
 ./gradlew assembleDebug
 ```
 Signed release builds run in CI on `v*` tags using secrets `SIGNING_KEYSTORE_BASE64`, `SIGNING_STORE_PASSWORD`, `SIGNING_KEY_ALIAS`, `SIGNING_KEY_PASSWORD`. Verify downloaded APKs against `SHA256SUMS`.
+
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 [MIT](LICENSE)
