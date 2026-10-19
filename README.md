@@ -4,6 +4,10 @@ Open-source Android app that forwards incoming SMS to a Telegram chat through yo
 
 Приложение пересылает входящие SMS в Telegram через вашего бота. Interface: English and Russian.
 
+## Screenshots
+
+<img src="docs/screenshots/main.png" width="270" alt="Main screen">
+
 ## Features
 - Forwards incoming SMS with sender, text and SIM slot name
 - Dual-SIM aware, custom names for SIM 1 / SIM 2
